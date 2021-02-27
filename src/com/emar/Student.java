@@ -5,6 +5,7 @@ public class Student {
     private String firstName;
     private String lastName;
     private String city;
+    private  float marks;
 
     public Student(int studentId, String firstName, String lastName, String city) {
         this.studentId = studentId;
